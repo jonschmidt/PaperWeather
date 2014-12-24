@@ -1,0 +1,13 @@
+.gradle
+/local.properties
+.DS_Store
+/build
+
+# intellij
+classes/
+.idea
+*.iml
+out
+tmp
+gen
+lint_files
